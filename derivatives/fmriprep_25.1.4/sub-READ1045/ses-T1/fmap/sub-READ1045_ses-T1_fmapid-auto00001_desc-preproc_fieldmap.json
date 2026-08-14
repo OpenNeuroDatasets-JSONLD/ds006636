@@ -8,8 +8,8 @@
     "ses-T1/func/sub-READ1045_ses-T1_task-AM_dir-PA_bold.nii.gz"
   ],
   "RawSources": [
-    "/om2/scratch/tmp/rarielmarks/read_proc/sub-READ1045/data/sub-READ1045/ses-T1/fmap/sub-READ1045_ses-T1_acq-AM_dir-AP_epi.nii.gz",
-    "/om2/scratch/tmp/rarielmarks/read_proc/sub-READ1045/data/sub-READ1045/ses-T1/func/sub-READ1045_ses-T1_task-AM_dir-PA_bold.nii.gz"
+    "/home/akaminsk/orcd/scratch/read_proc/sub-READ1045/data/sub-READ1045/ses-T1/fmap/sub-READ1045_ses-T1_acq-AM_dir-AP_epi.nii.gz",
+    "/home/akaminsk/orcd/scratch/read_proc/sub-READ1045/data/sub-READ1045/ses-T1/func/sub-READ1045_ses-T1_task-AM_dir-PA_bold.nii.gz"
   ],
   "Units": "Hz"
 }

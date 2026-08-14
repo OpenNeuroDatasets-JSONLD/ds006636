@@ -147,7 +147,5 @@
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20220720",
     "Dcm2bidsVersion": "2.1.7",
-    "IntendedFor": [
-        "ses-T1/func/sub-READ1032_ses-T1_task-AM_dir-PA_bold.nii.gz"
-    ]
+    "IntendedFor": "ses-T1/func/sub-READ1032_ses-T1_task-AM_dir-PA_bold.nii.gz"
 }
